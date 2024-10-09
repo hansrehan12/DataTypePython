@@ -1,4 +1,4 @@
-# Raihan Adi Wijiyanto
+
 #
 # Praktikum Halaman 9 Jawab Pertanyaan yang ada. program 2.1 Variable.py
 
